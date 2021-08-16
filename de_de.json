@@ -28,7 +28,7 @@
   "lacImportArgs": "<Quelle> [Argumente]",
   "lacUnknownSource": "Unbekannte Dantenbank-Art, bitte besuche das Wiki!",
   "lacImportFailed": "Konnte nicht importieren, bitte den Log überprüfen!",
-  "sessionContinue": "Deine letzte Anmeldung von %sec% früher wurde wiederholt.",
+  "sessionContinue": "Deine letzte Anmeldung vor %sec% früher wurde wiederholt.",
   "messageLogin": "Bitte mit /login <passwort> anmelden.",
   "messageRegister": "Bitte mit /register <passwort> registrieren",
   "errorRefreshProfile": "Dein Konto wurde von einem Dritten modifiziert, bitte neu anmelden!",
